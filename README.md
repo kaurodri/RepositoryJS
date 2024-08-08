@@ -4,8 +4,6 @@ estudo funções geometria
 <br>[Functions](https://github.com/kaurodri/Functions)
 
 Script
-<br>[VarAleatoria](https://github.com/kaurodri/VarAleatoria)
-<br>[Comandos-por-Terminal](https://github.com/kaurodri/Comandos-por-Terminal)
 <br>[Node.JS-comando-em-fila](https://github.com/kaurodri/Node.JS-comando-em-fila)
 <br>[script-checkFileType](https://github.com/kaurodri/script-checkFileType)
 <br>[script-readPDFFileAsDataURL](https://github.com/kaurodri/script-readPDFFileAsDataURL)
