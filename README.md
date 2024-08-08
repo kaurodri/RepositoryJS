@@ -1,7 +1,7 @@
 # RepositoryJS
 
 estudo funções geometria
-\n [Functions](https://github.com/kaurodri/Functions)
+<br>[Functions](https://github.com/kaurodri/Functions)
 
 Script
 https://github.com/kaurodri/VarAleatoria
