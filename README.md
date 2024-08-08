@@ -1,7 +1,7 @@
 # RepositoryJS
 
 estudo funções geometria
-https://github.com/kaurodri/Functions
+\nhttps://github.com/kaurodri/Functions
 
 
 Script
