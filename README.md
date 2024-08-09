@@ -1,6 +1,7 @@
 # RepositoryJS
 
 Script
+[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)
 <br>[script-pilha](https://github.com/kaurodri/script-pilha)
 <br>[Node.JS-comando-em-fila](https://github.com/kaurodri/Node.JS-comando-em-fila) (fila para reorganização de informações em diferentes servidores (Discord Server))
 <br>[script-checkFileType](https://github.com/kaurodri/script-checkFileType) (retorna o tipo de arquivo com base no seu hex)
