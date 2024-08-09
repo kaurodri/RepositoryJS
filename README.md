@@ -1,4 +1,4 @@
-# RepositoryJS
+# Repositório Javascript
 
 ### Script
 [![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)
