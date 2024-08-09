@@ -1,21 +1,18 @@
 # Repositório Javascript
 
-## Scripts
+## Scripts - Rol
+
+Lista dos scripts em Node.JS
 
 |Língua|Descrição|Link|
 |-----|--------|--------|
 |[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|script de pilha simples em JS| [script-pilha](https://github.com/kaurodri/script-pilha)
 |[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|solução simples e básica para uma pilha em string ou array| [script-arraySolution](https://github.com/kaurodri/script-arraySolution)
+|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|fila para reorganização de informações em diferentes servidores (Discord Server)|[script-nodeFila](https://github.com/kaurodri/Node.JS-comando-em-fila)
+|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|retorna o tipo de arquivo com base no seu hex|[script-checkFileType](https://github.com/kaurodri/script-checkFileType)
+|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|Verifica e filtra mensagens, retorna boolean|[script-filterMessage](https://github.com/kaurodri/script-filterMessage)
 
-### Script
 
-
-<br>
-<br>[script-nodeFila](https://github.com/kaurodri/Node.JS-comando-em-fila) (fila para reorganização de informações em diferentes servidores (Discord Server))
-<br>[script-checkFileType](https://github.com/kaurodri/script-checkFileType) (retorna o tipo de arquivo com base no seu hex)
-<br>[script-readPDFFileAsDataURL](https://github.com/kaurodri/script-readPDFFileAsDataURL) 
-<br> )
-<br>[script-filterMessage](https://github.com/kaurodri/script-filterMessage) (Verifica e filtra mensagens, retorna boolean)
 
 Projetos
 <br>https://github.com/kaurodri/Cisney
