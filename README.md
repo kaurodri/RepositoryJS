@@ -4,7 +4,6 @@
 
 Lista dos scripts em Node.JS
 
-|NodeJS|Descrição|Link|
 |-----|--------|--------|
 |[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|script de pilha simples em JS| [script-pilha](https://github.com/kaurodri/script-pilha)
 |[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|solução simples e básica para uma pilha em string ou array| [script-arraySolution](https://github.com/kaurodri/script-arraySolution)
