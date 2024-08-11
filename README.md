@@ -6,11 +6,11 @@ Lista dos scripts em Node.JS
 
 |Língua|Proposta|Descrição|Repositório|
 |-----|--------|--------|--------|
-|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|script de pilha simples em JS|Estrutura de Dados, Pilha| [script-pilha](https://github.com/kaurodri/script-pilha)
-|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|fila para reorganização de informações em diferentes servidores (Discord Server)|Discord.js, Estrutura de Dados, Fila|[script-nodeFila](https://github.com/kaurodri/Node.JS-comando-em-fila)
-|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|retorna o tipo de arquivo com base no seu hex|Análise de Arquivos, Hexadecimal|[script-checkFileType](https://github.com/kaurodri/script-checkFileType)
-|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|solução simples e básica para uma pilha em string ou array|Estrutura de Dados, Pilha| [script-arraySolution](https://github.com/kaurodri/script-arraySolution)
-|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|Verifica e filtra mensagens, retorna boolean|Filtragem de Conteúdo, Análise de Texto|[script-filterMessage](https://github.com/kaurodri/script-filterMessage)
+|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|Script de pilha simples em JS.|Estrutura de Dados, Pilha| [script-pilha](https://github.com/kaurodri/script-pilha)
+|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|Fila para reorganização de informações em diferentes servidores (Discord Server).|Discord.js, Estrutura de Dados, Fila|[script-nodeFila](https://github.com/kaurodri/Node.JS-comando-em-fila)
+|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|Retorna o tipo de arquivo com base no seu hex.|Análise de Arquivos, Hexadecimal|[script-checkFileType](https://github.com/kaurodri/script-checkFileType)
+|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|Solução simples e básica para uma pilha em string ou array.|Estrutura de Dados, Pilha| [script-arraySolution](https://github.com/kaurodri/script-arraySolution)
+|[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|Verifica e filtra mensagens, retorna boolean.|Filtragem de Conteúdo, Análise de Texto|[script-filterMessage](https://github.com/kaurodri/script-filterMessage)
 
 
 
