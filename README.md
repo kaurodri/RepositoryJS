@@ -4,7 +4,7 @@
 
 Lista dos scripts em Node.JS
 
-|Língua|Proposta|Descrição|Link|
+|Língua|Proposta|Descrição|Repositório|
 |-----|--------|--------|--------|
 |[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|script de pilha simples em JS|Estrutura de Dados, Pilha| [script-pilha](https://github.com/kaurodri/script-pilha)
 |[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|fila para reorganização de informações em diferentes servidores (Discord Server)|Discord.js, Estrutura de Dados, Fila|[script-nodeFila](https://github.com/kaurodri/Node.JS-comando-em-fila)
