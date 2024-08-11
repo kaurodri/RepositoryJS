@@ -12,16 +12,17 @@ Lista dos scripts em Node.JS
 |[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|Solução simples e básica para uma pilha em string ou array.|Estrutura de Dados, Pilha| [script-arraySolution](https://github.com/kaurodri/script-arraySolution)
 |[![JS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/kaurodri/RepositoryJS)|Verifica e filtra mensagens, retorna boolean.|Filtragem de Conteúdo, Análise de Texto|[script-filterMessage](https://github.com/kaurodri/script-filterMessage)
 
+## Projetos
 
+### [Repositórios](./00/)
 
-Projetos
-<br>https://github.com/kaurodri/Cisney
-<br>https://github.com/kaurodri/Kyro
-<br>https://github.com/kaurodri/ExtractorPDFtoTXT
-<br>https://github.com/kaurodri/tweetFaxTest
-<br>https://github.com/kaurodri/MetaMoney
-<br>https://github.com/kaurodri/MediadorFalta
-<br>https://github.com/kaurodri/FaturaBB
+* https://github.com/kaurodri/FaturaBB
+* https://github.com/kaurodri/MediadorFalta
+* https://github.com/kaurodri/MetaMoney
+* https://github.com/kaurodri/ExtractorPDFtoTXT
+* https://github.com/kaurodri/Kyro
+* https://github.com/kaurodri/Cisney
+* https://github.com/kaurodri/tweetFaxTest
 
 DMO
 <br>https://github.com/kaurodri/CCPVersion2.0
